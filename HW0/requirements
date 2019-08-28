@@ -1,0 +1,17 @@
+HTML & CSS Hands-On Exercise 1 - Marking up the Insights Page
+Due Saturday 8/31
+
+In this assignment, you will mark up the Insights (blog) page with HTML tags.  After you’ve finished the directions below, your page will not look finished but rather like this.  You will add styles to this in a later assignment.
+
+Directions
+In the RInvestments folder that we downloaded in class, create a file name riInsights.html and paste in the contents of this riInsights starter file.
+Similar to the demonstration in class, enclose the text in HTML tags as indicated in the following images.  Please also refer to the instruction comments within the file.
+Menu header (same as the one we did in class)
+Insights banner
+Content section
+in the indicated place: insert the picture titled ray-dalio.png that should already be in the photos folder.  In case the image doesn’t load, add an alt attribute with the value “Ray Dalio”.
+the “Ray Dalio” link should go to https://en.wikipedia.org/wiki/Ray_Dalio in a new browser tab
+Footer (same as the one we did in class)
+Your page should look like this.
+Submit the URL to your page in Canvas.
+For example, a student name Jane Doe (eName: doej) would submit http://www.business.colostate.edu/cis410/FA19Doe.doej/html/rInvestments/riInsights.html
